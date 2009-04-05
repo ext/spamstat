@@ -1,0 +1,5 @@
+Spamstat generates a piechart of the amount of spam received for each email-address.
+
+Currently only works with maildirs!
+
+Usage: python spamstat.py PATH-TO-MAILDIR
